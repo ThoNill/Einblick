@@ -1,0 +1,5 @@
+group weave;
+
+startBlock(name,title) ::= " d $title$"
+open(name,title) ::= " o $title$"
+reference(name,title) ::= " r $title$"
